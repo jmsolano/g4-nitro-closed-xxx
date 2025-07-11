@@ -1,11 +1,12 @@
 /*
                       This source code is part of
   
-                             G 4 - X X X
+                 G 4 - N I T R O - C L O S E D - X X X
   
                            VERSION: 1.0.0
   
                Contributors: Juan Manuel Solano-Altamirano
+                             Julio Manuel Hernández-Pérez
           Copyright (c) 2024-2025, Juan Manuel Solano-Altamirano
                                    <jmsolanoalt@gmail.com>
   
