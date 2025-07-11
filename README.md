@@ -7,7 +7,9 @@ formation enthalpy of a molecule. The theoretical details are described in
 
 Since July 10, 2025, this repository has been cloned the following number of times:
 
-<p align=center href='https://github.com/jmsolano/g4-nitro-closed-xxx'><img alt='GitHub Clones' src='https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/jmsolano/fc6084773c10f50aedf35940137cd353/raw/clone.json&logo=github'></p>
+<p align="center">
+    <a href='https://github.com/jmsolano/g4-nitro-closed-xxx'><img alt='GitHub Clones' src='https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/jmsolano/fc6084773c10f50aedf35940137cd353/raw/clone.json&logo=github'></a>
+</p>
 
 
 ## Contents
