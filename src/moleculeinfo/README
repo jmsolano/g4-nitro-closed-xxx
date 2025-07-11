@@ -1,0 +1,3 @@
+moleculeinfo prints information about a molecule, which is usually
+not contained within the input file. E.g. neighbors of an atom, etc.
+

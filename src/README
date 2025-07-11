@@ -1,0 +1,7 @@
+#Remember never to modify the files of this directory.
+#Instead, modify the original nitroStuff project files, and run:
+
+cd common; bash updateSollibs.sh
+cd ../getfe-g4-xxx/; bash updateFiles.sh
+cd ../moleculeinfo/; bash/updateFiles.sh
+
