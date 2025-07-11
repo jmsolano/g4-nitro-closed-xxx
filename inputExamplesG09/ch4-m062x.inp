@@ -1,0 +1,40 @@
+%chk=ch4-m062x.chk
+#M062X/6-31g(2df,p) Opt
+
+G4-B3LYP ch4
+
+0 1
+C 0.000034 -0.000016 -0.000341
+H -0.013801 0.006884 1.091369
+H -0.401930 0.943784 -0.374154
+H -0.611580 -0.827351 -0.365677
+H 1.027106 -0.123221 -0.349489
+
+--Link1--
+%chk=ch4-m062x.chk
+#N Geom=AllCheck Guess=TCheck SCRF=Check M062X/6-31g(2df,p) Freq
+
+--Link1--
+%chk=ch4-m062x.chk
+#N Geom=AllCheck Guess=TCheck SCRF=Check CCSD(T,E4T,FrzG4)/GTBas1
+
+--Link1--
+%chk=ch4-m062x.chk
+#N Geom=AllCheck Guess=TCheck SCRF=Check MP4=FrzG4/GTBas2
+
+--Link1--
+%chk=ch4-m062x.chk
+#N Geom=AllCheck Guess=TCheck SCRF=Check MP4=FrzG4/GTBas3
+
+--Link1--
+%chk=ch4-m062x.chk
+#N Geom=AllCheck Guess=TCheck SCRF=Check MP2=Full/GTLargeXP
+
+--Link1--
+%chk=ch4-m062x.chk
+#N Geom=AllCheck Guess=TCheck SCRF=Check HF/GFHFB1 SCF=Tight
+
+--Link1--
+%chk=ch4-m062x.chk
+#N Geom=AllCheck Guess=TCheck SCRF=Check HF/GFHFB2 SCF=Tight
+
